@@ -1,0 +1,3 @@
+/Users/mhunko/CLionProjects/ShopSystem/cmake-build-debug/CMakeFiles/ShopSystem.dir
+/Users/mhunko/CLionProjects/ShopSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mhunko/CLionProjects/ShopSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
