@@ -1,6 +1,5 @@
-5
-Refrigerator 2 Milk 5 Yahotynske 1 Eggs 10 Novus 1 Milk 10
-Freezer 3 Salmon 2 Pork 3 Salmon 4
-Shelve 2 Croissant 1 0.2 “White Bread” 1 0.5
-Shelve 3 Domestos 1 Gillette 0.5 Dove 0.25
-Shelve 2 Morshynska 100 2 Buvette 50 1
+Refrigerator Milk 5 Yahotynske 5 1 Eggs Novus 5 1 10
+Freezer Fish Salmon 2 0 Meat Pork 3 0 Fish Salmon 4 0
+Shelve Bread Croissant 0.2 1 Bread “White Bread” 0.5 1
+Shelve Soap Domestos 1 0 Soap Gillette 0.5 0 Soap Dove 0.25 0
+Shelve Water Morshynska 100 2 Water Buvette 50 1
